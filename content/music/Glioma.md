@@ -39,7 +39,7 @@ tags_check: "false"
 
 <iframe src="https://archive.org/details/zqwy_glioma" scrolling="no" width="100%" height="500" frameborder="0" title="cyber_logos"></iframe>
 
->[!info] DESCRIP  🎹
+>[!info] ОПИСАНИЕ  🎹
 >Описание думается
 
 >[!abstract] СЮЖЕТ  📖
